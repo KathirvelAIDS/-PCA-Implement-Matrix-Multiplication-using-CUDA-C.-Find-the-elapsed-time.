@@ -24,6 +24,10 @@ using cudaEventRecord and cudaEventElapsedTime functions.
 for the kernel to execute, and any relevant error messages.
 
 ## PROGRAM:
+```
+NAME:KATHIRVEL.A
+REG NO:212221230047
+```
 
 ## sumMatrixOnGPU.cu:
 ```
